@@ -16,7 +16,3 @@ cd Discord-Token-Login-Script
 pip install selenium
 py main.py
 ```
-
-## Help
-
-Youtube video coming out soon!
